@@ -1,0 +1,10 @@
+body {background-color: black;}
+.red{color:red;
+  background-color: blue;
+  font-size: 15px}
+
+#blue{color:blue;
+text-transform: uppercase;
+text-decoration: overline;
+font-family: "Impact", "Arial Black", serif;
+font-size: 30px}
