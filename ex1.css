@@ -1,0 +1,13 @@
+body{
+	background-color:blue;
+border: black 5px solid;
+padding:0px;
+margin:100px;}
+#border{border: green 2px dashed;
+margin:20px 20px 20px 20px;
+padding: 5px;
+}
+p{color: red;}
+#picture{border:white 3px dashed;
+margin: 20px 20px 0px 0px;
+padding: 20px}
