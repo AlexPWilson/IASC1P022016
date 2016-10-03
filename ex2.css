@@ -1,0 +1,25 @@
+#wrapper{
+	border: purple 2px dashed;
+	margin: 20px 20px 20px 20px;
+	padding: 200px 600px 0px 600px;
+
+}
+
+.hey{color: green;
+	font-size: 10px;
+	margin: 5px 620px 10px 620px
+	}
+
+h1{color: orange;
+	margin: 20px 10px 10px 10px;
+}
+span{color: red;
+margin: 0px 5px 5px 5px;
+vertical-align: 20px;
+}
+
+.heyy{color: purple;
+font-size: 6px;
+margin: 10px 10px 10px 1011px;}
+#can{color: yellow;
+vertical-align: baseline;}
