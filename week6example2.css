@@ -1,0 +1,14 @@
+body{background-color: green;}
+
+#wrapper{background-color: white;height: 900px;width: 800px;margin:0 auto;}
+
+#header{width: 800px;height: 100px;background-color: red;text-align: center}
+
+#nav{background-color: pink;
+width: 200px;height: 100px;float: left;}
+
+#nav2{background-color: orange;float: left; height: 100px;width: 600px}
+#content{width: 800px; height: 600px;float:left; background-color: blue}
+
+#footer{width: 800px; height: 100px;
+  background-color: yellow; clear:both;}
