@@ -1,0 +1,18 @@
+body
+{background-color: white; font-family: "helvetica nene" sans-serif;
+
+}
+#wrapper{background-color: white;
+}
+
+#logo{width: 150px; height: 60px;margin: 0 auto;}
+
+.blue{background-color: dark-blue;height: 20px; width: 800px}
+
+
+#nav{width: 150px;height: 800px;float: left;margin: 20px;
+}
+.box{width: 125; height: 50px; background-color: grey; : 20px
+}
+#content{margin: 100px;width: 600px; height: 800px;}
+.bottom{float: right; background-color: grey;margin: 20px;border: 100px;}
