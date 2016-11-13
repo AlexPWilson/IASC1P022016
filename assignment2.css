@@ -1,0 +1,20 @@
+body{background-color: grey;padding: 50}
+#wrapper{background-color: grey;height: 1300px;width: 1000px;}
+
+
+div p{font-family:"Trebuchet MS", sans-serif;}
+#header, #footer{width: 1000px;height: 90px;background-color: red;text-align: center; padding: 20px;}
+
+.blue{font-size: 25px; }
+
+
+#nav{background-color: orange;color: blue;
+width: 200px;height: 1000px;float: left; padding: 10px; position: fixed;
+}
+
+#content{background-color: grey;  float: right; padding: 10px; padding:0 auto; align-content: 20px;
+   height: 1000px;width: 650px; position: absolute, 200px;}
+
+.transform{text-transform: uppercase;}
+
+#footer{clear: both; position:relative;}
